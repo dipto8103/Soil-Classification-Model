@@ -6,7 +6,6 @@ Feature Extraction: Extracts texture features from soil images using statistical
 Classification Model: Employs SVM for the classification of soils into various categories based on their textural and color features, aiming for high accuracy in distinguishing between types like Silty Sand, Sandy Clay, Peat, and others.
 Dataset: The model is trained and evaluated on a dataset comprising 175 soil sample images, including categories such as Clay, Peat, Sandy Clay, and Silty Sand, among others. The dataset's diversity ensures the model's robustness and applicability to real-world soil analysis.
 
-**Getting Started**
 
 ## Running the Soil Classification Model from Colab to Local Environment
 
