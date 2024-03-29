@@ -22,9 +22,9 @@ Evaluation:
 Analyze the classification results and accuracy metrics provided at the end of the notebook.
 
 Dependencies:
-Python 3.x
-Jupyter Notebook
-Scikit-learn
-NumPy
-OpenCV for Python
-Matplotlib (for visualization)
+Python 3.x,
+Jupyter Notebook,
+Scikit-learn,
+NumPy,
+OpenCV for Python,
+Matplotlib (for visualization), TensorFlow libraries as needed.
