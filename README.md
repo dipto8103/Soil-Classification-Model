@@ -12,10 +12,16 @@ Dataset: The model is trained and evaluated on a dataset comprising 175 soil sam
 
 To use this model for soil classification:
 
-Preparation: Ensure all dependencies are installed and the dataset is accessible.
-Execution: Run the Jupyter Notebook cells sequentially to perform image preprocessing, feature extraction, and classification.
-Evaluation: Analyze the classification results and accuracy metrics provided at the end of the notebook.
-Dependencies: 
+Preparation:
+Ensure all dependencies are installed and the dataset is accessible.
+
+Execution: 
+Run the Jupyter Notebook cells sequentially to perform image preprocessing, feature extraction, and classification.
+
+Evaluation:
+Analyze the classification results and accuracy metrics provided at the end of the notebook.
+
+Dependencies:
 Python 3.x
 Jupyter Notebook
 Scikit-learn
